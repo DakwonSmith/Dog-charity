@@ -9,13 +9,13 @@ p, h2, h1{
 h2{
   text-align: center;
   background-color: 1A535C;
-  width: 100vh;
+  width: auto;
   padding: 10px;
 }
 h1{
   text-align: center;
   background-color: 1A535C;
-  width: 100vh;
+  width: auto;
   padding: 10px;
 }
 body{
@@ -41,15 +41,13 @@ img{
 
 #leftbottom{}
 
-#rightbottom{}  
+#rightbottom{}
 
 
 
 footer{
 
 }
-
-
 
 @media {
 
