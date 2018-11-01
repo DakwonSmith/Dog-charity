@@ -12,25 +12,25 @@ img{
 
 #lefttop{
   opacity: 0;
-  animation: fadein1 5s;
+  animation: fadein1 3s;
   animation-fill-mode:forwards;
 }
 
 #righttop{
   opacity: 0;
-  animation: fadein1 11s;
+  animation: fadein1 9s;
   animation-fill-mode:forwards;
 }
 
 #leftbottom{
   opacity: 0;
-  animation: fadein1 9s;
+  animation: fadein1 7s;
   animation-fill-mode:forwards;
 }
 
 #rightbottom{
   opacity: 0;
-  animation: fadein1 7s;
+  animation: fadein1 5s;
   animation-fill-mode:forwards;
 }
 
