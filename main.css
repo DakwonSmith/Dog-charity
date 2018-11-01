@@ -2,9 +2,33 @@ header{
 
 }
 
+img{
+  width:30vh;
+  height:30vh;
+  padding: 5px;
+}
+
+.center {
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+
+#leftttop{}
+
+#rightttop{}
+
+#leftbottom{}
+
+#rightbottom{}  
+
+
+
 footer{
 
 }
+
+
 
 @media {
 
