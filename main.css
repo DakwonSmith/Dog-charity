@@ -17,25 +17,25 @@ img{
 
 #lefttop{
   opacity: 0;
-  animation: fadein1 5s;
+  animation: fadein1 3s;
   animation-fill-mode:forwards;
 }
 
 #righttop{
   opacity: 0;
-  animation: fadein1 11s;
+  animation: fadein1 9s;
   animation-fill-mode:forwards;
 }
 
 #leftbottom{
   opacity: 0;
-  animation: fadein1 9s;
+  animation: fadein1 7s;
   animation-fill-mode:forwards;
 }
 
 #rightbottom{
   opacity: 0;
-  animation: fadein1 7s;
+  animation: fadein1 5s;
   animation-fill-mode:forwards;
 }
 
@@ -120,6 +120,7 @@ margin-left: 20px;
 margin-top: 10px;
 margin-bottom: 10px;
 margin-right: 400px;
+
 }
 #address_doggy{
   text-align: center;
@@ -128,7 +129,7 @@ margin-right: 400px;
   height: 50px;
   width: 55px;
 }
-=======
+
 @media only screen and (max-width: 600px) {
 #img_dog{
   margin: 1px;
@@ -143,5 +144,5 @@ margin-right: 400px;
   height: 10vh;
   width: 15vh;
 }
+
 }
-/* >>>>>>> master */
