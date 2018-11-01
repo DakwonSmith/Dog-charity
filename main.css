@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> b4c4ac039e665dd4d5e3920c4185f3eff69b96c0
 img{
   width:30vh;
   height:30vh;
@@ -67,13 +71,14 @@ p, h2, h1{
 h2{
   text-align: center;
   background-color: 1A535C;
-  width: 100vh;
+  width: auto;
   padding: 10px;
+
 }
 h1{
   text-align: center;
   background-color: 1A535C;
-  width: 100vh;
+  width: auto;
   padding: 10px;
 }
 body{
@@ -93,7 +98,10 @@ img{
     text-align: center;
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> b4c4ac039e665dd4d5e3920c4185f3eff69b96c0
 footer{
 border: 2px solid ;black
 background: #6cf;
@@ -106,7 +114,6 @@ margin-left: 20px;
 margin-top: 10px;
 margin-bottom: 10px;
 margin-right: 400px;
-
 }
 #address_doggy{
   text-align: center;
@@ -115,7 +122,7 @@ margin-right: 400px;
   height: 50px;
   width: 55px;
 }
-
+=======
 @media only screen and (max-width: 600px) {
 #img_dog{
   margin: 1px;
@@ -126,9 +133,9 @@ margin-right: 400px;
 #address_doggy{
   margin: 1px;
 }
-#img_dog{
+#img_dogg{
   height: 10vh;
   width: 15vh;
 }
-
 }
+/* >>>>>>> master */
