@@ -3,9 +3,24 @@ header{
 }
 
 footer{
-
+border: 2px solid blue;
+position: absolute;
+bottom: 0;
+width: 100%;
+height: 60px
+background: #6cf;
+text-align: center;
 }
-
+#dogg{
+position: absolute;
+left: 30px;
+bottom: 50px;
+}
+.dog{
+  height: 30px;
+  width: 40px;
+  position: absolute;
+}
 @media {
 
 }
