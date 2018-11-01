@@ -1,3 +1,8 @@
+/* <<<<<<< Mike */
+header{
+
+}
+
 img{
   width:30vh;
   height:30vh;
@@ -59,15 +64,6 @@ img{
 }
 
 
-
-
-@media {
-
-}
-=======
-header{
-
-}
 p, h2, h1{
   border-style: solid;
   border-width: 2px;
@@ -102,10 +98,21 @@ img{
     text-align: center;
 }
 
+#leftttop{}
+
+#rightttop{}
+
+#leftbottom{}
+
+#rightbottom{}
+
+
+
 footer{
-border: 2px solid blue;
+border: 2px solid ;black
 background: #6cf;
 position: relative;
+background-color: 1A535C;
 }
 #div_dogg{
 position: absolute;
@@ -113,27 +120,21 @@ margin-left: 20px;
 margin-top: 10px;
 margin-bottom: 10px;
 margin-right: 400px;
-
-/* <<<<<<< footer */
+}
+#address_doggy{
+  text-align: center;
 }
 #img_dog{
   height: 50px;
   width: 55px;
 }
 =======
-
-
-@media {
-/* >>>>>>> master */
-
-#address_doggy{
-text-align: center;
-  position: relative;
-  left: 0px;
-}
 @media only screen and (max-width: 600px) {
 #img_dog{
   margin: 1px;
+  text-align: center;
+    position: relative;
+    left: 0px;
 }
 #address_doggy{
   margin: 1px;
