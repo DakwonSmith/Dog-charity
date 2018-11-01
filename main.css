@@ -61,13 +61,6 @@ img{
 
 
 
-@media {
-
-}
-=======
-header{
-
-}
 p, h2, h1{
   border-style: solid;
   border-width: 2px;
@@ -114,17 +107,13 @@ margin-top: 10px;
 margin-bottom: 10px;
 margin-right: 400px;
 
-/* <<<<<<< footer */
 }
 #img_dog{
   height: 50px;
   width: 55px;
 }
-=======
 
 
-@media {
-/* >>>>>>> master */
 
 #address_doggy{
 text-align: center;
@@ -132,15 +121,14 @@ text-align: center;
   left: 0px;
 }
 @media only screen and (max-width: 600px) {
-#img_dog{
-  margin: 1px;
+  #img_dog{
+    margin: 1px;
+  }
+  #address_doggy{
+    margin: 1px;
+  }
+  #img_dog{
+    height: 10vh;
+    width: 15vh;
+  }
 }
-#address_doggy{
-  margin: 1px;
-}
-#img_dog{
-  height: 10vh;
-  width: 15vh;
-}
-}
-/* >>>>>>> master */
