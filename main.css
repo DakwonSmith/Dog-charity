@@ -1,8 +1,3 @@
-/* <<<<<<< Mike */
-header{
-
-}
-
 img{
   width:30vh;
   height:30vh;
@@ -17,25 +12,25 @@ img{
 
 #lefttop{
   opacity: 0;
-  animation: fadein1 5s;
+  animation: fadein1 3s;
   animation-fill-mode:forwards;
 }
 
 #righttop{
   opacity: 0;
-  animation: fadein1 11s;
+  animation: fadein1 9s;
   animation-fill-mode:forwards;
 }
 
 #leftbottom{
   opacity: 0;
-  animation: fadein1 9s;
+  animation: fadein1 7s;
   animation-fill-mode:forwards;
 }
 
 #rightbottom{
   opacity: 0;
-  animation: fadein1 7s;
+  animation: fadein1 5s;
   animation-fill-mode:forwards;
 }
 
@@ -72,13 +67,14 @@ p, h2, h1{
 h2{
   text-align: center;
   background-color: 1A535C;
-  width: 100vh;
+  width: auto;
   padding: 10px;
+
 }
 h1{
   text-align: center;
   background-color: 1A535C;
-  width: 100vh;
+  width: auto;
   padding: 10px;
 }
 body{
@@ -97,16 +93,6 @@ img{
     margin: auto;
     text-align: center;
 }
-
-#leftttop{}
-
-#rightttop{}
-
-#leftbottom{}
-
-#rightbottom{}
-
-
 
 footer{
 border: 2px solid ;black
@@ -139,7 +125,7 @@ margin-right: 400px;
 #address_doggy{
   margin: 1px;
 }
-#img_dog{
+#img_dogg{
   height: 10vh;
   width: 15vh;
 }
