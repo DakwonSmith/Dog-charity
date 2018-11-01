@@ -14,13 +14,53 @@ img{
     text-align: center;
 }
 
-#leftttop{}
+#lefttop{
+  opacity: 0;
+  animation: fadein1 5s;
+  animation-fill-mode:forwards;
+}
 
-#rightttop{}
+#righttop{
+  opacity: 0;
+  animation: fadein1 11s;
+  animation-fill-mode:forwards;
+}
 
-#leftbottom{}
+#leftbottom{
+  opacity: 0;
+  animation: fadein1 9s;
+  animation-fill-mode:forwards;
+}
 
-#rightbottom{}  
+#rightbottom{
+  opacity: 0;
+  animation: fadein1 7s;
+  animation-fill-mode:forwards;
+}
+
+@keyframes fadein1{
+  0% {opacity:0}
+  50% {opacity:0}
+  100%{opacity:1}
+}
+
+@keyframes fadein2{
+  0% {opacity:0}
+  50% {opacity:0}
+  100%{opacity:1}
+}
+
+@keyframes fadein3{
+  0% {opacity:0}
+  50% {opacity:0}
+  100%{opacity:1}
+}
+
+@keyframes fadein4{
+  0% {opacity:0}
+  50% {opacity:0}
+  100%{opacity:1}
+}
 
 
 
