@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> b4c4ac039e665dd4d5e3920c4185f3eff69b96c0
 img{
   width:30vh;
   height:30vh;
@@ -70,19 +66,19 @@ p, h2, h1{
 }
 h2{
   text-align: center;
-  background-color: 1A535C;
+  background-color: #1A535C;
   width: auto;
   padding: 10px;
 
 }
 h1{
   text-align: center;
-  background-color: 1A535C;
+  background-color: #1A535C;
   width: auto;
   padding: 10px;
 }
 body{
-  background-color:4ECDC4;
+  background-color: #4ECDC4;
 }
 
 
@@ -98,15 +94,11 @@ img{
     text-align: center;
 }
 
-<<<<<<< HEAD
-
-=======
->>>>>>> b4c4ac039e665dd4d5e3920c4185f3eff69b96c0
 footer{
 border: 2px solid ;black
 background: #6cf;
 position: relative;
-background-color: 1A535C;
+background-color: #1A535C;
 }
 #div_dogg{
 position: absolute;
@@ -138,4 +130,3 @@ margin-right: 400px;
   width: 15vh;
 }
 }
-/* >>>>>>> master */
