@@ -11,7 +11,6 @@ img{
 }
 
 
-
 #lefttop{
   opacity: 0;
   animation: fadein1 3s;
@@ -84,7 +83,6 @@ img{
 }
 
 
-
 p, h2, h1{
   border-style: solid;
   border-width: 2px;
@@ -96,6 +94,7 @@ p{
 }
 h2, h1{
   text-align: center;
+
   background-color: #2BBFFF;
   width: auto;
   padding: 10px;
@@ -106,6 +105,7 @@ h2, h1{
 /* (#44BFB9,#bbf7f7) */
 
 body{
+
   background-image: url(https://images.unsplash.com/photo-1507146426996-ef05306b995a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=1cf9c13e09f5f2ec5139b6475751b310&auto=format&fit=crop&w=1050&q=80);
   background-size: cover;
 }
@@ -116,6 +116,10 @@ img{
   height:30vh;
   padding: 5px;
 }
+button{
+  background-color: #1A535C;
+}
+
 
 .center {
     display: block;
