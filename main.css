@@ -57,8 +57,6 @@ img{
   50% {opacity:0}
   100%{opacity:1}
 }
-
-
 p, h2, h1{
   border-style: solid;
   border-width: 2px;
@@ -87,6 +85,10 @@ img{
   height:30vh;
   padding: 5px;
 }
+button{
+  background-color: #1A535C;
+}
+
 
 .center {
     display: block;
